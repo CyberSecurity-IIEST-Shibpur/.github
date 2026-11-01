@@ -47,7 +47,6 @@ We work with a variety of languages and tools to break and secure systems:
 
 ### 🤝 Get Involved
 Whether you are a seasoned bug bounty hunter or a complete beginner curious about how the internet works, there is a place for you here.
-* **Students of IIESTS:** Keep an eye out for our recruitment drives and weekly meetups on campus!
 * **Open Source Contributors:** Feel free to fork our public repositories, submit pull requests, and open issues. We welcome external contributions.
 
 
